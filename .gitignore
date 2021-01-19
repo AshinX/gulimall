@@ -1,8 +1,17 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /../../../../../../../:\Users\Administrator\Desktop\project\gulimall\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+
+**/target/
+.idea
+
+**/HELP.md
