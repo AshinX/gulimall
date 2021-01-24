@@ -9,30 +9,25 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fengyue.gulimall</groupId>
-	<artifactId>gulimall-order</artifactId>
+	<artifactId>gulimall-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gulimall-order</name>
-	<description>订单服务</description>
-
+	<name>gulimall-gateway</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>Hoxton.SR9</spring-cloud.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-gateway</artifactId>
 		</dependency>
+
 		<dependency>
 			<groupId>com.fengyue.gulimall</groupId>
 			<artifactId>gulimall-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<scope>compile</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-openfeign</artifactId>
 		</dependency>
 
 		<dependency>
@@ -40,14 +35,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.fengyue.gulimall</groupId>
-			<artifactId>gulimall-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<scope>compile</scope>
-		</dependency>
 	</dependencies>
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -68,7 +56,6 @@
 			</plugin>
 		</plugins>
 	</build>
-
 	<repositories>
 		<repository>
 			<id>spring-milestones</id>

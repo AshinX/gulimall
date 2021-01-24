@@ -5,19 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc13c06-b7be-4a91-9c27-8c74d97d0547" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/java/com/fengyue/gulimall/gulimallgateway/GulimallGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/test/java/com/fengyue/gulimall/gulimallgateway/GulimallGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/feign/CouponFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-common/gulimall-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-common/gulimall-common.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-common/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/GulimallCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/GulimallCouponApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/controller/CouponController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/controller/CouponController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-member/gulimall-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/gulimall-member.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/GulimallMemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/GulimallMemberApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-order/gulimall-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/gulimall-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-product/gulimall-product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/gulimall-product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-ware/gulimall-ware.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/gulimall-ware.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulimall-ware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -51,11 +81,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulimall-ware/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulimall-gateway/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -73,7 +104,7 @@
       <recent name="C:\Users\Administrator\Desktop\project\gulimall" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GulimallWareApplicationTests.contextLoads">
+  <component name="RunManager" selected="Spring Boot.GulimallGatewayApplication">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -154,6 +185,13 @@
     <configuration name="GulimallCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gulimall-coupon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengyue.gulimall.gulimallcoupon.GulimallCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengyue.gulimall.gulimallgateway.GulimallGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,7 +277,9 @@
       <workItem from="1611062718270" duration="1894000" />
       <workItem from="1611064643154" duration="108000" />
       <workItem from="1611064782272" duration="10000000" />
-      <workItem from="1611152849285" duration="5650000" />
+      <workItem from="1611152849285" duration="11516000" />
+      <workItem from="1611412906860" duration="5507000" />
+      <workItem from="1611419812577" duration="3424000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1611061416859</created>
@@ -276,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611155759711</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SQL">
+      <created>1611162852530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611162852530</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,70 +354,70 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611072173043" />
-    <state x="869" y="264" key="CommitChangelistDialog2" timestamp="1611155756122">
+    <state x="869" y="264" key="CommitChangelistDialog2" timestamp="1611162851674">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="869" y="264" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1611155756122" />
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1611062359891">
+    <state x="869" y="264" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1611162851674" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1611421140914">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611062359891" />
-    <state width="2517" height="623" key="GridCell.Tab.0.bottom" timestamp="1611155640841">
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611421140914" />
+    <state width="2517" height="597" key="GridCell.Tab.0.bottom" timestamp="1611497413820">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="623" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611155640841" />
-    <state width="2517" height="623" key="GridCell.Tab.0.center" timestamp="1611155640841">
+    <state width="2517" height="597" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
+    <state width="2517" height="597" key="GridCell.Tab.0.center" timestamp="1611497413820">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="623" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611155640841" />
-    <state width="2517" height="623" key="GridCell.Tab.0.left" timestamp="1611155640841">
+    <state width="2517" height="597" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
+    <state width="2517" height="597" key="GridCell.Tab.0.left" timestamp="1611497413820">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="623" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611155640841" />
-    <state width="2517" height="623" key="GridCell.Tab.0.right" timestamp="1611155640841">
+    <state width="2517" height="597" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
+    <state width="2517" height="597" key="GridCell.Tab.0.right" timestamp="1611497413820">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="623" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611155640841" />
-    <state width="2517" height="442" key="GridCell.Tab.1.bottom" timestamp="1611155169402">
+    <state width="2517" height="597" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
+    <state width="2517" height="597" key="GridCell.Tab.1.bottom" timestamp="1611497413821">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="442" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611155169402" />
-    <state width="2517" height="442" key="GridCell.Tab.1.center" timestamp="1611155169402">
+    <state width="2517" height="597" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413821" />
+    <state width="2517" height="597" key="GridCell.Tab.1.center" timestamp="1611497413821">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="442" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611155169402" />
-    <state width="2517" height="442" key="GridCell.Tab.1.left" timestamp="1611155169402">
+    <state width="2517" height="597" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413821" />
+    <state width="2517" height="597" key="GridCell.Tab.1.left" timestamp="1611497413821">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="442" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611155169402" />
-    <state width="2517" height="442" key="GridCell.Tab.1.right" timestamp="1611155169402">
+    <state width="2517" height="597" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413821" />
+    <state width="2517" height="597" key="GridCell.Tab.1.right" timestamp="1611497413821">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="442" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611155169402" />
+    <state width="2517" height="597" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413821" />
     <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1611071148913">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611071148913" />
-    <state x="552" y="292" key="SettingsEditor" timestamp="1611152821702">
+    <state x="552" y="292" key="SettingsEditor" timestamp="1611421127580">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="552" y="292" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611152821702" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1611073458395">
+    <state x="552" y="292" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611421127580" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1611162856064">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611073458395" />
-    <state x="1082" y="385" key="new project wizard" timestamp="1611070572363">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611162856064" />
+    <state x="492" y="124" width="1251" height="822" key="new project wizard" timestamp="1611420911692">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1082" y="385" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611070572363" />
+    <state x="492" y="124" width="1251" height="822" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611420911692" />
     <state x="1120" y="456" key="refactoring.ChangeSignatureDialog" timestamp="1611071863029">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1120" y="456" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611071863029" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611070968628">
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611421136865">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611070968628" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611421136865" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
