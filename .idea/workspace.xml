@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc13c06-b7be-4a91-9c27-8c74d97d0547" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/java/com/fengyue/gulimall/gulimallgateway/GulimallGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-gateway/src/test/java/com/fengyue/gulimall/gulimallgateway/GulimallGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/feign/CouponFeignService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -21,21 +12,10 @@
       <change beforePath="$PROJECT_DIR$/gulimall-common/gulimall-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-common/gulimall-common.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-common/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/gulimall-coupon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-coupon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/GulimallCouponApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/GulimallCouponApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/controller/CouponController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/fengyue/gulimall/gulimallcoupon/controller/CouponController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-member/gulimall-member.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/gulimall-member.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-member/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/GulimallMemberApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/GulimallMemberApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/fengyue/gulimall/gulimallmember/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-order/gulimall-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/gulimall-order.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-order/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-product/gulimall-product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/gulimall-product.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-product/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulimall-ware/gulimall-ware.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/gulimall-ware.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulimall-ware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gulimall-ware/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -81,8 +62,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulimall-gateway/pom.xml" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gulimall-search/pom.xml" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -104,32 +85,14 @@
       <recent name="C:\Users\Administrator\Desktop\project\gulimall" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.GulimallGatewayApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GulimallSearchApplicationTests.contextLoads">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GulimallCouponApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="gulimall-coupon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fengyue.gulimall.gulimallcoupon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fengyue.gulimall.gulimallcoupon" />
-      <option name="MAIN_CLASS_NAME" value="com.fengyue.gulimall.gulimallcoupon.GulimallCouponApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,6 +123,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.fengyue.gulimall.gulimallorder" />
       <option name="MAIN_CLASS_NAME" value="com.fengyue.gulimall.gulimallorder.GulimallOrderApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GulimallSearchApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gulimall-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fengyue.gulimall.gulimallsearch.gulimallsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fengyue.gulimall.gulimallsearch.gulimallsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.fengyue.gulimall.gulimallsearch.gulimallsearch.GulimallSearchApplicationTests" />
       <option name="METHOD_NAME" value="contextLoads" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -217,6 +196,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GulimallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gulimall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengyue.gulimall.gulimallsearch.gulimallsearch.GulimallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GulimallWareApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gulimall-ware" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fengyue.gulimall.gulimallware.GulimallWareApplication" />
@@ -256,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GulimallSearchApplicationTests.contextLoads" />
         <item itemvalue="JUnit.GulimallWareApplicationTests.contextLoads" />
         <item itemvalue="Spring Boot.RenrenApplication (1)" />
         <item itemvalue="JUnit.GulimallOrderApplicationTests.contextLoads" />
         <item itemvalue="JUnit.GulimallMemberApplicationTests.contextLoads" />
-        <item itemvalue="JUnit.GulimallCouponApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +265,8 @@
       <workItem from="1611064782272" duration="10000000" />
       <workItem from="1611152849285" duration="11516000" />
       <workItem from="1611412906860" duration="5507000" />
-      <workItem from="1611419812577" duration="3424000" />
+      <workItem from="1611419812577" duration="3735000" />
+      <workItem from="1612275301970" duration="2187000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1611061416859</created>
@@ -323,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611162852530</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="gateway">
+      <created>1611497453543</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611497453543</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +329,8 @@
     <MESSAGE value="初始化" />
     <MESSAGE value="初始化sql" />
     <MESSAGE value="SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="SQL" />
+    <MESSAGE value="gateway" />
+    <option name="LAST_COMMIT_MESSAGE" value="gateway" />
   </component>
   <component name="WindowStateProjectService">
     <state x="760" y="274" key="#Project_Structure" timestamp="1611154099774">
@@ -346,37 +341,43 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1011" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1611153710840" />
-    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1611071980609">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="868" y="330" key="#com.intellij.ide.util.MemberChooser" timestamp="1612277189080">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="868" y="330" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1612277189080" />
     <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1611071980609" />
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611072173043">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611072173043" />
-    <state x="869" y="264" key="CommitChangelistDialog2" timestamp="1611162851674">
+    <state x="869" y="264" key="CommitChangelistDialog2" timestamp="1611497452260">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="869" y="264" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1611162851674" />
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1611421140914">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="869" y="264" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1611497452260" />
+    <state x="848" y="361" key="FileChooserDialogImpl" timestamp="1612275836104">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="848" y="361" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1612275836104" />
     <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611421140914" />
-    <state width="2517" height="597" key="GridCell.Tab.0.bottom" timestamp="1611497413820">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="2005" height="458" key="GridCell.Tab.0.bottom" timestamp="1612277445982">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="2005" height="458" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1612277445982" />
     <state width="2517" height="597" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
-    <state width="2517" height="597" key="GridCell.Tab.0.center" timestamp="1611497413820">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="2005" height="458" key="GridCell.Tab.0.center" timestamp="1612277445982">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="2005" height="458" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1612277445982" />
     <state width="2517" height="597" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
-    <state width="2517" height="597" key="GridCell.Tab.0.left" timestamp="1611497413820">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="2005" height="458" key="GridCell.Tab.0.left" timestamp="1612277445981">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="2005" height="458" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1612277445981" />
     <state width="2517" height="597" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
-    <state width="2517" height="597" key="GridCell.Tab.0.right" timestamp="1611497413820">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="2005" height="458" key="GridCell.Tab.0.right" timestamp="1612277445982">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state width="2005" height="458" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1612277445982" />
     <state width="2517" height="597" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611497413820" />
     <state width="2517" height="597" key="GridCell.Tab.1.bottom" timestamp="1611497413821">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -398,25 +399,28 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611071148913" />
-    <state x="552" y="292" key="SettingsEditor" timestamp="1611421127580">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="442" y="232" key="SettingsEditor" timestamp="1612275817856">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="442" y="232" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1612275817856" />
     <state x="552" y="292" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611421127580" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1611162856064">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1611497456200">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611162856064" />
-    <state x="492" y="124" width="1251" height="822" key="new project wizard" timestamp="1611420911692">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611497456200" />
+    <state x="394" y="98" width="1251" height="822" key="new project wizard" timestamp="1612275731867">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="394" y="98" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1612275731867" />
     <state x="492" y="124" width="1251" height="822" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611420911692" />
     <state x="1120" y="456" key="refactoring.ChangeSignatureDialog" timestamp="1611071863029">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1120" y="456" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611071863029" />
-    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1611421136865">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="754" y="250" width="672" height="539" key="search.everywhere.popup" timestamp="1612275832729">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
+    <state x="754" y="250" width="672" height="539" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1612275832729" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1611421136865" />
   </component>
   <component name="XDebuggerManager">
